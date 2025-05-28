@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+build/
+CMakeLists.txt.user
+/src/protocol/*.pb.h
+/src/protocol/*.pb.cc
